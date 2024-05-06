@@ -1,0 +1,25 @@
+{
+  "name": "3d-building-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@react-three/drei": "^9.87.0",
+    "@react-three/fiber": "^8.14.5",
+    "@tweenjs/tween.js": "^21.0.0",
+    "r3f-pack": "^2.2.3",
+    "three": "^0.157.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "next": "^14.2.3",
+    "nxt": "^0.0.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
